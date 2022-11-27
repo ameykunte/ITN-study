@@ -1,4 +1,4 @@
-# BARTBALL
+# BARTBALL (with pain of paying)
 
 Balloon Analogue Risk Task (BART)
 
